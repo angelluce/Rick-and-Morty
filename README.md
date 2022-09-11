@@ -1,4 +1,6 @@
-# rickandmorty
+# Rick and Morty 
+
+![image](https://user-images.githubusercontent.com/57451983/189554123-d4a03d3a-e424-4971-abcc-c8da80fe8aee.png)
 
 A new Flutter project.
 
